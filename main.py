@@ -3,7 +3,7 @@ Este script es un demo de como usar Streamlit
 """
 import streamlit as st
 
-st.title('Generador de numeros de la suerte')
+st.title('Generador de números de la suerte')
 st.text('Con esto podrás ganar la loteria')
 
 edad = st.slider('Ingrese la edad',0,100)
